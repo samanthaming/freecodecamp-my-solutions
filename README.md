@@ -31,7 +31,7 @@ If you haven't done these yet, make sure you check them out. They are a wonderfu
 
 ## Intermediate Algorithm Challenge
 
-[Link to freeCodeCamp's Basic Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+[Link to freeCodeCamp's Intermediate Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
 | # | My Solution |
 |---|:-----|
