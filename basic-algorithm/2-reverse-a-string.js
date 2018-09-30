@@ -13,7 +13,8 @@
 
 function reverseString(str) {
   return str
-    .split('') // split the string into an array of individual letters
+    .split('') // split the string into an array
+                 // of individual letters
     .reverse() // reverse the order of the array
     .join(''); // convert the array back to a string
 }
@@ -21,4 +22,4 @@ function reverseString(str) {
 reverseString("hello");
 // returns "olleh"
 
-// ️➡️ Solution: github.com/samanthaming
+/* ➡️ Solution: github.com/samanthaming */
