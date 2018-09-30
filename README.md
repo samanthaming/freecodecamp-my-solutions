@@ -8,7 +8,7 @@ If you haven't done these yet, make sure you check them out. They are a wonderfu
 
 ## Basic Algorithm Challenge
 
-[Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+[Link to freeCodeCamp's Basic Algorithm Challenge](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 
 | # | My Solution |
 |---|:-----|

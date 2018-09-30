@@ -8,7 +8,7 @@
  * Array.isArray --> checks if something is an array of not
  */
 
- function steamrollArray(arr) {
+function steamrollArray(arr) {
 
   // Step 1: create empty array to hold all the flattened element
   let flattenArr = [];

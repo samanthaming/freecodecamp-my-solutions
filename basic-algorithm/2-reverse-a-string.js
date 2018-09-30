@@ -1,9 +1,14 @@
 /** Reverse a String
  *
+ * Reverse the provided string.
  * Your result must be a string.
  *
- * reverseString("hello") should become "olleh"
- * reverseString("Howdy") should become "ydwoH"
+ * reverseString("hello")
+ * Output: "olleh"
+ *
+ * reverseString("HoWdy")
+ * Output: "ydWoH"
+ *
  */
 
 function reverseString(str) {
@@ -11,3 +16,4 @@ function reverseString(str) {
 }
 
 reverseString("hello");
+// returns "olleh"
