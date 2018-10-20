@@ -22,3 +22,19 @@ reverseString("hello");
 // returns "olleh"
 
 /* ➡️ Solution: github.com/samanthaming */
+
+// ============================
+// Using Reduce
+// ============================
+
+function reverseString2(str) {
+  return [...str].reduce((accumulator, current) => {
+    return current + accumulator;
+  });
+
+  // OR One-Liner
+  // return [...str].reduce((accumulator, current) => current + accumulator)
+}
+
+reverseString2("hello");
+// returns "olleh"
