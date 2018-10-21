@@ -16,7 +16,7 @@ If you haven't done these yet, make sure you check them out. They are a wonderfu
 | 2 | [Reverse a String](basic-algorithm/2-reverse-a-string.js) |
 | 3 | [Factorialize a Number](basic-algorithm/3-factorialize-a-number.js) |
 | 4 | [Find the Longest Word in a String](basic-algorithm/4-find-the-longest-word-in-a-string.js) |
-| 5 | [Return Largest Numbers in Arrays](basic-algorithm/5-return-largest-numbers-in-arrays.js) |
+| 5 | [Return Largest Numbers in Arrays](basic-algorithm/5-return-largest-number-in-arrays.js) |
 | 6 | [Confirm the Ending](basic-algorithm/6-confirm-the-ending.js) |
 | 7 | [Repeat a String Repeat a String](basic-algorithm/7-repeat-a-string-repeat-a-string.js) |
 | 8 | [Truncate a String](basic-algorithm/8-truncate-a-string.js) |

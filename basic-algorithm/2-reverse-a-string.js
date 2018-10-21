@@ -38,3 +38,20 @@ function reverseString2(str) {
 
 reverseString2("hello");
 // returns "olleh"
+
+// ============================
+// Using for-loop
+// ============================
+
+function reverseString3(str) {
+  let result = '';
+
+  for (let i = str.length - 1; i >= 0; i--) {
+    result += str[i];
+  }
+
+  return result;
+}
+
+reverseString3("hello");
+// returns "olleh"
